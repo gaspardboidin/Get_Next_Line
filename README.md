@@ -1,4 +1,4 @@
-***🇺🇸 English Version - get_next_line***
+# 🇺🇸 English Version - get_next_line
 
 
 
@@ -20,8 +20,6 @@ The goal is to implement a function that reads and returns one line at a time fr
 ✅ Dynamic buffer usage: Works with a customizable BUFFER_SIZE macro, set at compilation.
 
 ✅ Compatibility: Can read from a file, stdin, or any file descriptor.
-
-
 
 
 ***📌 Compilation***
@@ -82,3 +80,6 @@ int main(void)
 ***📜 License***
 
 This project is under the *MIT License* – you are free to use, modify, and distribute it.
+## 🚀 About Me
+I'm a full stack developer...
+
