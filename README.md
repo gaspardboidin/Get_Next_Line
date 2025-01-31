@@ -80,6 +80,7 @@ int main(void)
 ***📜 License***
 
 This project is under the *MIT License* – you are free to use, modify, and distribute it.
+
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a student at 42 Paris, you can see my profile on [Profil Intra](https://profile.intra.42.fr/users/gaboidin) !
 
